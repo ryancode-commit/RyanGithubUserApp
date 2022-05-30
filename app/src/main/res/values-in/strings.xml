@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RyanGithubUserApp</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="following">DiIkuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="repository">Repository</string>
+    <string name="number">000</string>
+    <string name="name">Nama</string>
+    <string name="favorite">Favorite</string>
+    <string name="change_notification_settings">Notifikasi</string>
+    <string name="change_language_settings">Bahasa</string>
+    <string name="delete_favorite">Favorite Dihapus</string>
+    <string name="add_favorite">Favorite Ditambahkan</string>
+    <string name="empty_favorite">Favorite Kosong</string>
+    <string name="username">Username</string>
+    <string name="setting">Pengaturan</string>
+    <string name="daily_message">Mencari Favorit Baru</string>
+    <string name="daily_on">Pengingat Diaktifkan</string>
+    <string name="daily_off">Pengingat dihentikan</string>
+    <string name="title_activity_notification">Notifisikas</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="reminder_setting">Pengingat</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+</resources>
